@@ -6,6 +6,5 @@ Sono uno studente di **informatica e telecomunicazioni** con una passione per la
 
 ## I miei interessi 🎮
 Amo i videogiochi e sto attualmente lavorando a un progetto personale con alcuni amici. Sono sempre alla ricerca di nuove opportunità per apprendere e migliorare le mie abilità di programmazione.
-<img src="https://github.com/FabrizioOjeda08/FabrizioOjeda08/blob/main/gaster.gif" width="300">
 
-![Gaster Rotoscopy](https://github.com/FabrizioOjeda08/FabrizioOjeda08/blob/main/gaster.gif)
+<img src="https://github.com/FabrizioOjeda08/FabrizioOjeda08/blob/main/gaster.gif" width="300">
